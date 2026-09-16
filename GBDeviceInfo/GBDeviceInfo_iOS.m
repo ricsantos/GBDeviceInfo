@@ -292,10 +292,10 @@
                 @[@16, @2]: @[@(GBDeviceModeliPhone15ProMax), @"iPhone 15 Pro Max", @(GBDeviceDisplay6p7Inch), @460],
 
                 // 16 Pro
-                @[@17, @1]: @[@(GBDeviceModeliPhone16Pro), @"iPhone 16 Pro", @(GBDeviceDisplay6p1Inch), @460],
+                @[@17, @1]: @[@(GBDeviceModeliPhone16Pro), @"iPhone 16 Pro", @(GBDeviceDisplay6p3Inch), @460],
                 
                 // 16 Pro Max
-                @[@17, @2]: @[@(GBDeviceModeliPhone16ProMax), @"iPhone 16 Pro Max", @(GBDeviceDisplay6p7Inch), @460],
+                @[@17, @2]: @[@(GBDeviceModeliPhone16ProMax), @"iPhone 16 Pro Max", @(GBDeviceDisplay6p9Inch), @460],
                 
                 // 16
                 @[@17, @3]: @[@(GBDeviceModeliPhone16), @"iPhone 16", @(GBDeviceDisplay6p1Inch), @460],
